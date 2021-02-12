@@ -27,3 +27,8 @@ p {
 
     color: rgb(255, 000, 000);
 }
+
+li {
+
+    font-style: italic;
+}
